@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PLAYER
+  - GENERATOR
+  - MURDER
+  - BOARD
+  - PLAYERCAMERA
+  - SURVIVOR
+  - AXE
+  - JUMP
+  - HANGER
+  - LEVER
+  - BOARDDOWN
+  - TREATOBJ
+  - DATA
+  - Survivor1
+  - Survivor2
+  - HANGPOS
+  - HANGHOOKPOS
+  - HANGHOOKPOS1
+  - HANGHOOKPOS2
+  - HANGHOOKPOS3
+  - HANGHOOKPOS4
+  - HANGHOOKPOS5
+  - ContactText
+  - ESCAPE
+  - CANBOARDATTACK
+  - HANGHOOKPOS6
+  - HANGHOOKPOS7
+  - HANGHOOKPOS8
+  - HANGHOOKPOS9
+  - HANGHOOKPOS10
+  - HANGHOOKPOS11
+  - HANGHOOKPOS12
+  - HANGHOOKPOS13
+  - HANGHOOKPOS14
+  - HANGHOOKPOS15
+  - HANGHOOKPOS16
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
